@@ -1,8 +1,102 @@
 [
-  { "branch": "Army", "code": "11B", "title": "Infantryman" },
-  { "branch": "Army", "code": "68W", "title": "Combat Medic Specialist" },
-  { "branch": "Navy", "code": "BM", "title": "Boatswain's Mate" },
-  { "branch": "Air Force", "code": "1N4X1", "title": "Fusion Analyst" },
-  { "branch": "Marines", "code": "0311", "title": "Rifleman" },
-  { "branch": "Coast Guard", "code": "AET", "title": "Avionics Electrical Technician" }
+  {
+    "branch": "Army",
+    "code": "11B",
+    "title": "Infantryman"
+  },
+  {
+    "branch": "Army",
+    "code": "68W",
+    "title": "Combat Medic Specialist"
+  },
+  {
+    "branch": "Army",
+    "code": "12B",
+    "title": "Combat Engineer"
+  },
+  {
+    "branch": "Army",
+    "code": "35F",
+    "title": "Intelligence Analyst"
+  },
+  {
+    "branch": "Navy",
+    "code": "BM",
+    "title": "Boatswain's Mate"
+  },
+  {
+    "branch": "Navy",
+    "code": "HM",
+    "title": "Hospital Corpsman"
+  },
+  {
+    "branch": "Navy",
+    "code": "IT",
+    "title": "Information Systems Technician"
+  },
+  {
+    "branch": "Navy",
+    "code": "FC",
+    "title": "Fire Controlman"
+  },
+  {
+    "branch": "Air Force",
+    "code": "1N4X1",
+    "title": "Fusion Analyst"
+  },
+  {
+    "branch": "Air Force",
+    "code": "3D0X2",
+    "title": "Cyber Systems Operations"
+  },
+  {
+    "branch": "Air Force",
+    "code": "2A3X3",
+    "title": "Tactical Aircraft Maintenance"
+  },
+  {
+    "branch": "Air Force",
+    "code": "1C6X1",
+    "title": "Space Systems Operations"
+  },
+  {
+    "branch": "Marines",
+    "code": "0311",
+    "title": "Rifleman"
+  },
+  {
+    "branch": "Marines",
+    "code": "0321",
+    "title": "Reconnaissance Marine"
+  },
+  {
+    "branch": "Marines",
+    "code": "5811",
+    "title": "Military Police"
+  },
+  {
+    "branch": "Marines",
+    "code": "2111",
+    "title": "Small Arms Repairer/Technician"
+  },
+  {
+    "branch": "Coast Guard",
+    "code": "AET",
+    "title": "Avionics Electrical Technician"
+  },
+  {
+    "branch": "Coast Guard",
+    "code": "BM",
+    "title": "Boatswain's Mate"
+  },
+  {
+    "branch": "Coast Guard",
+    "code": "ME",
+    "title": "Maritime Enforcement Specialist"
+  },
+  {
+    "branch": "Coast Guard",
+    "code": "EM",
+    "title": "Electrician's Mate"
+  }
 ]
