@@ -1,0 +1,9 @@
+[
+  { "branch": "Army", "code": "11B", "title": "Infantryman" },
+  { "branch": "Army", "code": "68W", "title": "Combat Medic Specialist" },
+  { "branch": "Navy", "code": "BM", "title": "Boatswain's Mate" },
+  { "branch": "Air Force", "code": "1N4X1", "title": "Fusion Analyst" },
+  { "branch": "Marines", "code": "0311", "title": "Rifleman" },
+  { "branch": "Coast Guard", "code": "AET", "title": "Avionics Electrical Technician" }
+  // You can add more later!
+]
